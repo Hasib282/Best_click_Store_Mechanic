@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\customer",
+    "\\src\\customer\\CustomerEntity",
+    "\\src\\mechanic",
+    "\\src\\mechanic\\MechanicDTO"
+  ],
+  "SelectedNode": "\\src\\customer\\CustomerEntity\\customer.entity.ts",
+  "PreviewInSolutionExplorer": false
+}
